@@ -5,8 +5,6 @@
 # Mail:	luomat at gmail dot com
 # Date:	2012-09-30
 
-NAME="$0:t"
-
 	# if you moved your Dropbox somewhere else, change this
 DIR="$HOME/Dropbox"
 
