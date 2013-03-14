@@ -18,7 +18,7 @@ BACKGROUND_COLOR=white
 if ((! $+commands[convert] ))
 then
 
-	# note: if convert is a function or alias, it will come back not found
+		# note: if convert is a function or alias, it will come back not found
 
 	echo "$NAME: convert (part of ImageMagick) is required but not found in $PATH"
 	exit 1
